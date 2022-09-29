@@ -64,6 +64,13 @@ body {
   flex-direction: row-reverse;
   align-items: center;
 }
+.mail-contact {
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 32px 0;
+    margin-right: 10px;
+}
 
 .logo {
   padding-top: 24px;
