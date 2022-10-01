@@ -413,6 +413,7 @@ body {
 }
 .link-our-project {
   color: inherit;
+  display: block;
 }
 
 .link-our-project:hover,
