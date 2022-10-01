@@ -223,8 +223,7 @@ body {
   background: var(--color-bg-our-tim-and-bg-button-our-projects);
   border-radius: 4px;
   margin-bottom: 30px;
-  padding: 25px 100px;
-  /* height: 120px; */
+  height: 120px;
 }
 
 .item-preference {
@@ -311,15 +310,12 @@ body {
 }
 
 .link-soc-tim {
-  /* width: 44px;
-  height: 44px; */
   width: 100%;
   height: 100%;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 12px;
 }
 .icon-soc-tim {
   fill: var(--color-soc-icon);
@@ -357,7 +353,6 @@ body {
   justify-content: center;
   width: 100%;
   height: 100%;
-  padding: 16px 32px;
   border: 1px solid var(--color-soc-icon);
   border-radius: 4px;
 }
@@ -539,7 +534,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 12px;
 }
 
 .icon-soc-join {
